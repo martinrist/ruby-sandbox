@@ -18,3 +18,6 @@ puts Roman.X
 puts Roman.XC
 puts Roman.XII
 puts Roman.X
+
+# This wil evaluate to zero
+puts Roman.Q
